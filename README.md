@@ -1,6 +1,9 @@
 # data-science-journey
 A collection of projects and learnings from my data science journey.
 
+# C. Melisa Korkmaz
+🎯 Quality Control Specialist | Aspiring Data Analyst | Python & C# Learner
+
 ## Background:
 A quality control specialist with experience in the medical device industry and a strong interest in data science and software development. 
 
