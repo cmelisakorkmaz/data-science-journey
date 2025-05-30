@@ -1,5 +1,6 @@
 # C. Melisa Korkmaz
 🎯 Quality Control Specialist | Aspiring Data Analyst | Python & C# Learner
+
 A collection of projects and learnings from my data science journey.
 
 ### 🧰 Languages & Tools
