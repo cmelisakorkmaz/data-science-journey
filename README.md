@@ -17,11 +17,11 @@ A collection of projects and learnings from my data science journey.
 
 - 🔍 **Shelfier** – Web & mobile app -- a simple stock tracking app to help small businesses manage inventory more easily.
    
-[Built with: Flutter, Firebase]
+   [Built with: Flutter, Firebase]
 
 - 📈 **Bike Purchase Analysis** – Analyzed customer data using Excel pivot tables and visualizations. Inspired by AlexTheAnalyst. 
  
- [GitHub Repo](https://github.com/cmelisakorkmaz/bike-purchase-analysis.git) – [Built with: Microsoft Excel]
+    [GitHub Repo](https://github.com/cmelisakorkmaz/bike-purchase-analysis.git) – [Built with: Microsoft Excel]
 
 ## Background:
 A quality control specialist with experience in the medical device industry and a strong interest in data science and software development. 
