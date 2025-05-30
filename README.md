@@ -15,7 +15,7 @@ A collection of projects and learnings from my data science journey.
 
 ### 📂 Featured Projects
 
-- 🔍 **Shelfier** – Web & mobile app -- a simple stock tracking app to help small businesses manage inventory more easily.
+- 🔍 **Shelfie** – Web & mobile app -- a simple stock tracking app to help small businesses manage inventory more easily.
    
    [Built with: Flutter, Firebase]
 
